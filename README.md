@@ -1,4 +1,5 @@
-## Hi there 👋
+ <h1>Hi there 👋 </h1>
+ <h2>I’m a dedicated front-end developer based in Stockholm with a deep passion for creating exceptional user experiences. I'm constantly curious and always eager to learn, exploring new ways to push the boundaries of design and development. Whether it's crafting seamless interfaces or finding innovative solutions to complex problems, I thrive on the challenge of making the web a more intuitive and engaging place for everyone.</h2>
 
 <!--
 **Diyako-Qadri/Diyako-Qadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3>Languages and Tools</h3> ⚡ 
+###🧰 Languages and Tools
 <div>
 <a href="https://www.w3schools.com/css/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="left" alt="react" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
 <a href="https://nextjs.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="left" alt="nextjs" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
