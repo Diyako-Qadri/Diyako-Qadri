@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://nextjs.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="nextjs" width="35px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
   <a href="https://vitejs.dev/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="vitejs" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-plain.svg"/></a>
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="javascript" width="35px" 
   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="typescript" width="35px" style="padding-right:10px;" 
