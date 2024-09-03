@@ -16,34 +16,48 @@ Here are some ideas to get you started:
 ### 🧰 Languages and Tools
 
 <div align="center">
-  <a href="https://react.dev/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="react" width="35px" 
- style=`padding-right:20px, margin:40px` 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
-  <a href="https://nextjs.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="nextjs" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
-  <a href="https://vitejs.dev/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="vitejs" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="javascript" width="35px" 
-  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
-  <a href="https://www.typescriptlang.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="typescript" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <a href="https://www.w3.org/html/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="react" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /></a>
-  <a href="https://www.w3schools.com/css/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center"alt="react" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" /></a>
-  <a href="https://sass-lang.com/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center"" alt="sass" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/></a>
-  <a href="https://tailwindcss.com/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="tailwind" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
-  <a href="https://git-scm.com/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="git" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" /></a>
-  <a href="https://jestjs.io/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="jest" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /></a>
-  <a href="https://www.postgresql.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="postgresql" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></a>
-  <a href="https://www.mysql.com/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="mysql" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /></a>
-  <a href="https://www.mongodb.com/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="mongodb" width="35px" style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" /></a>
+  <a href="https://react.dev/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="react" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  </a>
+  <a href="https://nextjs.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="nextjs" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  </a>
+  <a href="https://vitejs.dev/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="vitejs" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="javascript" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href="https://www.typescriptlang.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="typescript" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  </a>
+  <a href="https://www.w3.org/html/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="html5" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  </a>
+  <a href="https://www.w3schools.com/css/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="css3" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+  </a>
+  <a href="https://sass-lang.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="sass" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  </a>
+  <a href="https://tailwindcss.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="tailwind" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  </a>
+  <a href="https://git-scm.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="git" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
+  </a>
+  <a href="https://jestjs.io/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="jest" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+  </a>
+  <a href="https://www.postgresql.org/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="postgresql" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  </a>
+  <a href="https://www.mysql.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="mysql" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  </a>
+  <a href="https://www.mongodb.com/" style="text-decoration: none;" target="_blank" rel="noreferrer">
+    <img align="center" alt="mongodb" width="35px" style="padding-right: 10px; margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  </a>
 </div>
+
 
