@@ -16,19 +16,18 @@ Here are some ideas to get you started:
 ### 🧰 Languages and Tools
 
 <div >
-  <a href="https://react.dev/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="react" width="35px" style="padding-right:10px;" 
+  <a href="https://react.dev/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="react" width="35px" style={`padding-right:10px, margin-left:10px`} 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
   <a href="https://nextjs.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="nextjs" width="35px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
+  <a href="https://www.w3.org/html/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="react" width="35px" style="padding-right:10px;"  
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs- original.svg" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="javascript" width="35px" 
   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="typescript" width="35px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <a href="https://www.w3.org/html/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="react" width="35px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /></a>
-  <a href="https://www.w3.org/html/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="react" width="35px" style="padding-right:10px;"  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs- 
-  original.svg" /></a>
   <a href="https://www.w3schools.com/css/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center"alt="react" width="35px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" /></a>
   <a href="https://sass-lang.com/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center"" alt="sass" width="35px" style="padding-right:10px;" 
