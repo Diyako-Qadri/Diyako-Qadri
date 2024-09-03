@@ -1,5 +1,5 @@
  <h1>Hi there 👋 </h1>
- <h2>I’m a dedicated front-end developer based in Stockholm with a deep passion for creating exceptional user experiences. I'm constantly curious and always eager to learn, exploring new ways to push the boundaries of design and development. Whether it's crafting seamless interfaces or finding innovative solutions to complex problems, I thrive on the challenge of making the web a more intuitive and engaging place for everyone.</h2>
+I’m a dedicated front-end developer based in Stockholm with a deep passion for creating exceptional user experiences. I'm constantly curious and always eager to learn, exploring new ways to push the boundaries of design and development. Whether it's crafting seamless interfaces or finding innovative solutions to complex problems, I thrive on the challenge of making the web a more intuitive and engaging place for everyone.
 
 <!--
 **Diyako-Qadri/Diyako-Qadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
