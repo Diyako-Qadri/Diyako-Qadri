@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on ...
-📫 How to reach me: ...-->
- 🌱 I’m currently learning react native
-👯 I’m looking to collaborate on future projects 
-💬 Ask me about react, css
+-📫 How to reach me: ...-->
+- 🌱 I’m currently learning react native
+- 👯 I’m looking to collaborate on future projects 
+- 💬 Ask me about react, css
 
 ---
 
