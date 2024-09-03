@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
   <a href="https://nextjs.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="nextjs" width="35px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></a>
-  <a href="https://www.w3.org/html/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="react" width="35px" style="padding-right:10px;"  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs- original.svg" /></a>
+  <a href="https://www.w3.org/html/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="nextjs" width="35px" style="padding-right:10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejsoriginal.svg"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="javascript" width="35px" 
   style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></a>
   <a href="https://www.typescriptlang.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="typescript" width="35px" style="padding-right:10px;" 
