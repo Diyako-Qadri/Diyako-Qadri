@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning react native
 - 👯 I’m looking to collaborate on future projects 
 - 💬 Ask me about react, css
--📫 How to reach me: qadri.diyako@gmail.com or add me on [Linkedin](https://www.linkedin.com/in/diyako-qadri-649ab71a0/)
+- 📫 How to reach me: qadri.diyako@gmail.com or add me on [Linkedin](https://www.linkedin.com/in/diyako-qadri-649ab71a0/)
 ---
 
 ### 🧰 Languages and Tools
