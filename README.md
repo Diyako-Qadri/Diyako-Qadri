@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 🧰 Languages and Tools
 
-<div >
+<div align="center">
   <a href="https://react.dev/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="react" width="35px" style={`padding-right:10px, margin-left:10px`} 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
   <a href="https://nextjs.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="center" alt="nextjs" width="35px" style="padding-right:10px;" 
