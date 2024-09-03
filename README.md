@@ -1,20 +1,21 @@
 # Hi, I'm Diyako 👋 
+
 <p>I’m a dedicated front-end developer based in Stockholm with a deep passion for creating exceptional user experiences. I'm constantly curious and always eager to learn, exploring new ways to push the boundaries of design and development. Whether it's crafting seamless interfaces or finding innovative solutions to complex problems, I thrive on the challenge of making the web a more intuitive and engaging place for everyone.</p>
 
 
 
 Here are some ideas to get you started:
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning react native
-- 👯 I’m looking to collaborate on future projects 
-- 💬 Ask me about react, css
-- 📫 How to reach me: ...
-- 
+<!-- - 🔭 I’m currently working on ...
+📫 How to reach me: ...-->
+ 🌱 I’m currently learning react native
+👯 I’m looking to collaborate on future projects 
+💬 Ask me about react, css
+
 ---
 
 ### 🧰 Languages and Tools
 
-<div>
+<div align="center">
   <a href="https://www.w3schools.com/css/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="left" alt="react" width="35px" style="padding-right:10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
   <a href="https://nextjs.org/" style="text-decoratione: none;" target="_blank" rel="noreferrer"><img align="left" alt="nextjs" width="35px" style="padding-right:10px;" 
