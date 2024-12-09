@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -📫 How to reach me: ...-->
 - 🌱 I’m currently learning react native
 - 👯 I’m looking to collaborate on future projects 
-- 💬 Ask me about react, css
+- 💬 Got a question or want to say hello? Go ahead. 
 - 📫 How to reach me: qadri.diyako@gmail.com or add me on [Linkedin](https://www.linkedin.com/in/diyako-qadri-649ab71a0/)
 ---
 
